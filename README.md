@@ -34,5 +34,7 @@ npm start
 
 You should see the app in your browser address bar at [http://localhost:3000](http://localhost:3000)
 
+![image](https://github.com/matrix-2023/calculator/assets/143998226/21da3be0-bf24-4524-b5aa-0886ddede0c3)
+
 
 
